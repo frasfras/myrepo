@@ -1,0 +1,33 @@
+{
+  "name": "orchardsharer",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@pika/react": "^16.13.1",
+    "@pika/react-dom": "^16.13.1",
+    "@progress/kendo-data-query": "^1.5.5",
+    "@progress/kendo-drawing": "^1.10.1",
+    "@progress/kendo-licensing": "^1.1.4",
+    "@progress/kendo-react-animation": "^4.6.0",
+    "@progress/kendo-react-data-tools": "^4.6.0",
+    "@progress/kendo-react-dateinputs": "^4.6.0",
+    "@progress/kendo-react-dropdowns": "^4.6.0",
+    "@progress/kendo-react-grid": "^4.6.0",
+    "@progress/kendo-react-inputs": "^4.6.0",
+    "@progress/kendo-react-intl": "^4.6.0",
+    "@progress/kendo-react-treeview": "^4.6.0",
+    "@progress/kendo-theme-default": "^4.38.1",
+    "firebase": "^7.16.1",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^5.2.0",
+    "react-use-clipboard": "^1.0.0",
+    "swr": "^0.2.3"
+  },
+  "devDependencies": {
+    "vite": "^1.0.0-rc.1",
+    "vite-plugin-react": "^3.0.0"
+  }
+}
